@@ -1,4 +1,4 @@
-# 😄 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# 🌱
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=jievince&show_icons=true&line_height=24&count_private=true&theme=vue)
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jievince&layout=compact&langs_count=8&hide=vim&theme=vue)
